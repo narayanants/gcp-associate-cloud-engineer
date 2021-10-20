@@ -1,0 +1,25 @@
+Exam Blueprint:
+---------------
+
+    - Google's statement of what's important
+    - Working in the field as cloud engineer
+    - Defines the scope of the role
+
+
+    Job Role Highlights:
+    --------------------
+
+    - Deploy apps
+    - Monitor ops of multiple projects
+    - Able to use GCP console and command line
+    - Perform common based tasks
+
+
+    - Projects and Account Setup
+    - Planning and Configuring
+    - Deploying and implementing Solutions
+    - Ensuring successful operation of a cloud Solution
+    - Configuring and Security, Managing IAM, service accounts, Audit Logging
+    
+
+     
